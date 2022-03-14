@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Northendlab | Blog Template</title>
+    <link>https://research-notebook.netlify.app/</link>
+    <description>Recent content on Northendlab | Blog Template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://research-notebook.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tutorial</title>
+      <link>https://research-notebook.netlify.app/tutorial/</link>
+      <pubDate>Sat, 12 Mar 2022 20:51:40 -0500</pubDate>
+      
+      <guid>https://research-notebook.netlify.app/tutorial/</guid>
+      <description>Table of Contents:  About Features Obtaining the resource Setup Execution Helpful Resources Conclusion  About Describe the software resource and explain its relevance to your topic. Please include the link to the software resource.
+- TensorFlow, which can be found at https://www.tensorflow.org/ , is a highly documented open source platform that can be used for machine learning. TensorFlow contains a wide variety of tools, libraries, etc., all with many articles documenting the way to use them.</description>
+    </item>
+    
+    <item>
+      <title>Research_area</title>
+      <link>https://research-notebook.netlify.app/research_area/</link>
+      <pubDate>Fri, 11 Mar 2022 10:34:18 -0500</pubDate>
+      
+      <guid>https://research-notebook.netlify.app/research_area/</guid>
+      <description>Machine learning applications for CPU creation in video games, mainly in applications for competitive pokemon. Want to make model to work with Pokemon Showdown, an online website, would be able to get measurable results from a wide range of individuals, ladder rankings could be used to show skill level. In order to add complexity, I think it would be interesting to build multiple different models based on different information searching algorithms in order to see which one performs better.</description>
+    </item>
+    
+    <item>
+      <title>Bio</title>
+      <link>https://research-notebook.netlify.app/bio/</link>
+      <pubDate>Wed, 09 Mar 2022 16:53:20 -0500</pubDate>
+      
+      <guid>https://research-notebook.netlify.app/bio/</guid>
+      <description>Hello! This is my biography! My name is Katie. I am a sophomore at Allegheny College. I am a Computer Science major with an Economics minor. I am also the VPO of my sorority, Alpha Delta Pi, the Treasurer of Allegheny&amp;rsquo;s chapter of the Association of Computing Machinery (ACM), and the Co-Founder and Director of Operations for the Women in Pop Culture Club.</description>
+    </item>
+    
+  </channel>
+</rss>

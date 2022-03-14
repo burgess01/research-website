@@ -1,4 +1,4 @@
 baseURL = 'https://research-notebook.netlify.app'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'ga-hugo-theme'
+title = 'Northendlab | Blog Template'
+theme = 'northendlab-light'

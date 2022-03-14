@@ -1,0 +1,3 @@
+[submodule "northendlab-light"]
+	path = northendlab-light
+	url = git@github.com:gethugothemes/northendlab-light.git
